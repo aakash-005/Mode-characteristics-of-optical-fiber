@@ -31,6 +31,8 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 
 ---
 <img width="618" height="722" alt="image" src="https://github.com/user-attachments/assets/b611cde3-a1f1-4bf4-ac7a-9de89f4b6f53" />
+<img width="960" height="1280" alt="WhatsApp Image 2026-05-14 at 9 48 11 AM" src="https://github.com/user-attachments/assets/7ecd2032-2a24-4b38-9156-8777a9fa5179" />
+
 
 # Observation and Calculation
 <img width="442" height="136" alt="image" src="https://github.com/user-attachments/assets/3d0b54ac-b870-412c-9344-ef34bda44f69" />
@@ -39,4 +41,5 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 ---
 
 # Result
+The mode characteristics of the optical fiber were studied successfully using a He–Ne laser source. Speckle patterns were observed in multimode fiber, while lower order LP modes were observed in single mode fiber. The experiment confirmed the propagation behavior of modes in optical fibers.
 
