@@ -31,11 +31,12 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 
 ---
 <img width="618" height="722" alt="image" src="https://github.com/user-attachments/assets/b611cde3-a1f1-4bf4-ac7a-9de89f4b6f53" />
-<img width="960" height="1280" alt="WhatsApp Image 2026-05-14 at 9 48 11 AM" src="https://github.com/user-attachments/assets/7ecd2032-2a24-4b38-9156-8777a9fa5179" />
+<img width="972" height="1289" alt="WhatsApp Image 2026-05-27 at 21 21 05" src="https://github.com/user-attachments/assets/1ec4c25f-c22d-4a55-a118-f4eda49c9af8" />
+
 
 
 # Observation and Calculation
-[image alt](https://github.com/aakash-005/Mode-characteristics-of-optical-fiber/blob/08ea535798d162e8e513fbf28a60cc5d796174a1/ocn%201.jpeg)
+<img width="442" height="136" alt="image" src="https://github.com/user-attachments/assets/3d0b54ac-b870-412c-9344-ef34bda44f69" />
 
 
 ---
